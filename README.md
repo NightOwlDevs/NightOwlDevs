@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="badges">
   </a>
   <a href="https://www.youtube.com/channel/UC9EMRj1ProWui-jUGJrrelQ">
@@ -6,5 +5,10 @@
   </a>
   <a href="https://twitter.com/NighOwl721">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
+  <h1>
+   Hi its NightOwl there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
