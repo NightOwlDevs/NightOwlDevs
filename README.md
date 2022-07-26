@@ -10,7 +10,7 @@
 
                     -@                    nightowl@archlinux
                    .##@                   -----------------
-                  .####@                  Username: Kaneki Web
+                  .####@                  Username: NightOwl#6969
                   @#####@                 Alias: VeryNightOwl, DarkOwl
                 . *######@                Discord: [https://discord.gg/BTdFXbZ9t7](https://discord.gg/BgkBS3Hckq)
                .##@o@#####@               Website: http://nightowl.com.pl/
@@ -22,7 +22,7 @@
         -@#######h       ######@.`        Python: 8/10
        /#####h**``       `**%@####@       JS: 9/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 13yo Active discord user and self-taught developer.
+     *`                            `*     Info: 13yo Active discord user and self-taught developer.
 
 ```
 
