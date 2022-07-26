@@ -6,23 +6,23 @@
 -->
 
 ```css
-[paradox@archlinux ~]$ neofetch
+[nightowl@archlinux ~]$ neofetch
 
-                    -@                    paradox@archlinux
+                    -@                    nightowl@archlinux
                    .##@                   -----------------
                   .####@                  Username: Kaneki Web
-                  @#####@                 Alias: Kaneki, Paradox
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
-               .##@o@#####@               Website: https://kanekiweb.tk/
+                  @#####@                 Alias: VeryNightOwl, DarkOwl
+                . *######@                Discord: [https://discord.gg/BTdFXbZ9t7](https://discord.gg/BgkBS3Hckq)
+               .##@o@#####@               Website: http://nightowl.com.pl/
               /############@            
-             /##############@             paradox@archlinux
+             /##############@             nightowl@skills
             @######@**%######@            -----------------
            @######`     %#####o           Java: 8/10
           @######@       ######%          HTML: 6/1O
         -@#######h       ######@.`        Python: 8/10
        /#####h**``       `**%@####@       JS: 9/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 16yo Freelance and self-taught developer, founder of Skulldev.ga !
+     *`                            `*     Infos: 13yo Active discord user and self-taught developer.
 
 ```
 
