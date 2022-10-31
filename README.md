@@ -17,12 +17,12 @@
               /############@            
              /##############@             nightowl@skills
             @######@**%######@            -----------------
-           @######`     %#####o           Java: 8/10
-          @######@       ######%          HTML: 6/1O
+           @######`     %#####o           Java: 8,5/10
+          @######@       ######%          HTML: 7/1O
         -@#######h       ######@.`        Python: 8/10
        /#####h**``       `**%@####@       JS: 9/10
       @H@*`                    `*%#@    
-     *`                            `*     Info: 13yo Active discord user and self-taught developer.
+     *`                            `*     Info: almost 14yo Active discord user and self-taught developer.
 
 ```
 
