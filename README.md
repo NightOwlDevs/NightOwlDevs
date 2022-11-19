@@ -13,7 +13,7 @@
                   .####@                  Username: NightOwl#6969
                   @#####@                 Alias: VeryNightOwl, DarkOwl
                 . *######@                Discord: https://discord.gg/BgkBS3Hckq
-               .##@o@#####@               Website: http://nightowl.com.pl/
+               .##@o@#####@               Website: https://nightowl.dev
               /############@            
              /##############@             nightowl@skills
             @######@**%######@            -----------------
